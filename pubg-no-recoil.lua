@@ -20,15 +20,15 @@
 
 --====== Mouse key binds =========--
 
-local AKM = 8
+local AKM = nil
 local BERRYL = 7
 local G36C = nil
-local M416 = nil
-local SCAR_L = nil
+local M416 = 8
+local SCAR_L = 6
 local QBZ = nil
 local AUG = nil ---- Updated
 local GROZA = nil
-local ACE32 = 6
+local ACE32 = nil
 local K2 = nil
 local FAMAS = nil
 
